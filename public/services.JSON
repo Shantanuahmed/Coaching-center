@@ -1,0 +1,42 @@
+[
+  {
+    "name": "IELTS",
+    "servicePrice": "18000",
+    "picture": "https://i.ibb.co/JKcrMfS/download.jpg"
+  },
+  {
+    "name": "Bank job",
+    "servicePrice": "10000",
+    "picture": "https://i.ibb.co/27D581Y/download-1.jpg"
+  },
+  {
+    "name": "Phonetics",
+    "servicePrice": "12000",
+    "picture": "https://i.ibb.co/bsKy6Fd/phonetics-word-concept-cubes-146502898.jpg"
+  },
+  {
+    "name": "English Writing",
+    "servicePrice": "8000",
+    "picture": "https://i.ibb.co/D8MQgQc/download-2.jpg"
+  },
+  {
+    "name": "English Spoken",
+    "servicePrice": "15000",
+    "picture": "https://i.ibb.co/CQK9gWT/download-9.jpg"
+  },
+  {
+    "name": "B.C.S ",
+    "servicePrice": "20000",
+    "picture": "https://i.ibb.co/YdR2dvL/download-2.png"
+  },
+  {
+    "name": "University Admission Test",
+    "servicePrice": "12000",
+    "picture": "https://i.ibb.co/sK6F5Bt/young-male-teacher-laptop-standing-260nw-1067010011.jpg"
+  },
+  {
+    "name": "S.S.C Preparation",
+    "servicePrice": "8000",
+    "picture": "https://i.ibb.co/R48Yfsh/images.jpg"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "service": "Spoken English",
+    "servicePrice": "15000",
+    "picture": "https://i.ibb.co/CQK9gWT/download-9.jpg"
+  },
+  {
+    "service": "B.C.S Preparation",
+    "servicePrice": "20000",
+    "picture": "https://i.ibb.co/YdR2dvL/download-2.png"
+  },
+  {
+    "service": "H.S.C Admission Test",
+    "servicePrice": "12000",
+    "picture": "https://i.ibb.co/sK6F5Bt/young-male-teacher-laptop-standing-260nw-1067010011.jpg"
+  },
+  {
+    "service": "S.S.C Preparation",
+    "servicePrice": "8000",
+    "picture": "https://i.ibb.co/R48Yfsh/images.jpg"
+  }
+]
